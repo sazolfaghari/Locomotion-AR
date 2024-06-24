@@ -1,1 +1,7 @@
-# Locomotion-AR
+<b>Activity Recognition in Smart Homes via Feature-Rich Visual Extraction of Locomotion Traces</b>
+
+<b><i>Abstract</i></b>
+
+The proliferation of sensors in smart homes makes it possible to monitor human activities, routines, and complex behaviors in an unprecedented way. Hence, human activity recognition has gained increasing attention over the last few years as a tool to improve healthcare and well-being in several applications. However, most existing activity recognition systems rely on cameras or wearable sensors, which may be obtrusive and may invade the user’s privacy, especially at home. Moreover, extracting expressive features from a stream of data provided by heterogeneous smart-home sensors is still an open challenge. In this paper, we investigate a novel method to detect activities of daily living by exploiting unobtrusive smart-home sensors (i.e., passive infrared position sensors and sensors attached to everyday objects) and vision-based deep learning algorithms, without the use of cameras or wearable sensors. Our method relies on depicting the locomotion traces of the user and visual clues about their interaction with objects on a floor plan map of the home, and utilizes pre-trained deep convolutional neural networks to extract features for recognizing ongoing activity. One additional advantage of our method is its seamless extendibility with additional features based on the available sensor data. Extensive experiments with a real-world dataset and a comparison with state-of-the-art approaches demonstrate the effectiveness of our method.
+
+Link to the paper: https://www.mdpi.com/2079-9292/12/9/1969
