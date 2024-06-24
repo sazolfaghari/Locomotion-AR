@@ -1,4 +1,4 @@
-<b>Activity Recognition in Smart Homes via Feature-Rich Visual Extraction of Locomotion Traces</b>
+# <b>Activity Recognition in Smart Homes via Feature-Rich Visual Extraction of Locomotion Traces</b>
 
 <b><i>Abstract</i></b>
 
